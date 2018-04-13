@@ -1,0 +1,54 @@
+<persons>
+	<person>
+		<firstName>Xie</firstName>
+		<lastName>Qikui</lastName>
+		<age>30</age>
+		<address>
+			<streetAddress>LongXi 2nd Street</streetAddress>
+			<city>Beijing</city>
+			<state>CH</state>
+			<postalCode>10021</postalCode>
+		</address>
+		<phoneNumbers>
+			<phoneNumber type="home">010 6666-6666</phoneNumber>
+			<phoneNumber type="fax">011 8888-8888</phoneNumber>
+		</phoneNumbers>
+		<gender>
+			<type>male</type>
+		</gender>
+	</person>
+	<person>
+		<firstName>Fung</firstName>
+		<lastName>Lin</lastName>
+		<age>29</age>
+		<address>
+			<streetAddress>YuZhi East Street</streetAddress>
+			<city>Tianshui</city>
+			<state>CH</state>
+			<postalCode>10022</postalCode>
+		</address>
+		<phoneNumbers>
+			<phoneNumber type="home">212 555-1234</phoneNumber>
+		</phoneNumbers>
+		<gender>
+			<type>female</type>
+		</gender>
+	</person>
+	<person>
+		<firstName>Patty</firstName>
+		<lastName>Liar</lastName>
+		<age>28</age>
+		<address>
+			<streetAddress>YuZhi East Street</streetAddress>
+			<city>Lanzhou</city>
+			<state>CH</state>
+			<postalCode>10023</postalCode>
+		</address>
+		<phoneNumbers>
+			<phoneNumber type="home">212 555-1234</phoneNumber>
+		</phoneNumbers>
+		<gender>
+			<type>male</type>
+		</gender>
+	</person>
+</persons>
